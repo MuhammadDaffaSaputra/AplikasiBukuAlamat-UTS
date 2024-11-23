@@ -50,7 +50,7 @@ Aplikasi Buku Alamat adalah aplikasi berbasis Java Swing untuk mengelola data bu
    - Gunakan *Search* untuk mencari entri spesifik berdasarkan nama, alamat, atau nomor telepon.
 ## Screenshot
 Tangkapan layar aplikasi:
-![Screenshot](screenshot/ss.PNG)
+![Screenshot](screenshot/ss.png)
 
 ## Lisensi
 Proyek ini menggunakan lisensi MIT. Silakan baca file `LICENSE` untuk informasi lebih lanjut.
